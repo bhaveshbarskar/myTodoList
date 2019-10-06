@@ -80,9 +80,10 @@ export default class App extends React.Component {
               handleDelete={this.handleDelete}
               handleEdit={this.handleEdit}></Todolist>
           </div>
+
         </div>
 
-
+        <p className="text-center mt-3">&copy; Developed by - Bhavesh Barskar</p>
       </div>
     )
   }
