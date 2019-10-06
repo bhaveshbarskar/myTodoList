@@ -83,7 +83,7 @@ export default class App extends React.Component {
 
         </div>
 
-        <p className="text-center mt-3">&copy; Developed by - Bhavesh Barskar</p>
+        <p className="text-center mt-3">&copy; Developed by - Bhavesh</p>
       </div>
     )
   }
